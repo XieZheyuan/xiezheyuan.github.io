@@ -1,0 +1,15 @@
+{
+    "followSysAccent": "跟隨系統強調色",
+    "pickColor": "自定義主題色",
+    "asriChroma": "色度：",
+    "afwdDocMenuLabel": "全寬顯示",
+    "afwdMenuItem-all": "所有適用的塊",
+    "afwdMenuItem-db": "數據庫",
+    "afwdMenuItem-t": "表格",
+    "afwdMenuItem-p": "圖片",
+    "afwdMenuItem-iframe": "iFrame",
+    "afwdMenuItem-sb": "超級塊",
+    "afwdMenuItem-clear": "清除屬性",
+    "afwdMenuItem-on": "為此塊啟用",
+    "afwdMenuItem-off": "為此塊禁用"
+}
